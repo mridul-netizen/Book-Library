@@ -9,4 +9,6 @@ This will open a react app at port localhost:3000
 and  server is for connecting to the database.
 for opening the graphiql tool visit to http://localhost:4000/graphql
 database of books have been created at Mlab 
+Once started locally it would look somrthing like this:
+![alt text](https://github.com/mridul-netizen/graphql/blob/main/Screenshot%20(765).png)
 Do star if you like the project
